@@ -7,3 +7,6 @@ Programa básico empleando POO. Temática: apuestas.
 ![image](https://user-images.githubusercontent.com/61020584/129658964-5eed2e73-803c-480e-893f-d2386f2cf003.png)
 
 ![image](https://user-images.githubusercontent.com/61020584/129659071-eadb34a0-dd52-437f-bb41-0f74ecef1106.png)
+
+![image](https://user-images.githubusercontent.com/61020584/129659152-2ae61507-7982-43a7-b416-c67ab20996dd.png)
+
