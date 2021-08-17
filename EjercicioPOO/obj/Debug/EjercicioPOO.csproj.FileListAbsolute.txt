@@ -1,0 +1,7 @@
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\obj\Debug\EjercicioPOO.csproj.AssemblyReference.cache
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\obj\Debug\EjercicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\bin\Debug\EjercicioPOO.exe.config
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\bin\Debug\EjercicioPOO.exe
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\bin\Debug\EjercicioPOO.pdb
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\obj\Debug\EjercicioPOO.exe
+C:\Users\dani_\source\repos\EjercicioPOO\EjercicioPOO\obj\Debug\EjercicioPOO.pdb
